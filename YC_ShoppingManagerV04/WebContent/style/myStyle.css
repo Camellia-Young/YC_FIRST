@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.ss {
+	width: 20px;
+	display: inline-block;
+	text-align:right;
+	background-color:#eff;
+}
+span{
+	color:blue;
+}
+.back_color
+{
+	background-color: #1B6D85;
+}
+.navbar-default .navbar-nav>li>a
+{
+	color: white;
+}
